@@ -2,3 +2,6 @@ langchain
 python_dotenv
 anthropic
 openai
+pypdf
+faiss-cpu
+tiktoken
