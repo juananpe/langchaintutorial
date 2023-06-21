@@ -1,0 +1,4 @@
+langchain
+python_dotenv
+anthropic
+openai
