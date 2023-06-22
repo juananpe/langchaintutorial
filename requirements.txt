@@ -5,3 +5,4 @@ openai
 pypdf
 faiss-cpu
 tiktoken
+nest_asyncio
