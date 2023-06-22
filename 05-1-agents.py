@@ -2,8 +2,11 @@ import os
 os.environ["LANGCHAIN_TRACING"] = "true" # If you want to trace the execution of the program, set to "true"
 
 '''
-pip install playwright
+from the command line, run langchain-server
 '''
+
+from dotenv import load_dotenv
+load_dotenv()
 
 from langchain.agents import AgentType
 from langchain.chat_models import ChatOpenAI
@@ -33,7 +36,7 @@ async def go(async_browser):
     response = await agent_chain.arun(input="Browse to 2023.teemconference.eu and tell me when is the new deadline for submissions, please.")
     print(response)
 
-    response = await agent_chain.arun(input="What's the latest xkcd comic about?")
+    response = await agent_chain.arun(input="What's the latest xkcd comic URL? (I need just the png URL, please)")
     print(response)
 
 

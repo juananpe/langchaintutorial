@@ -6,3 +6,6 @@ pypdf
 faiss-cpu
 tiktoken
 nest_asyncio
+playwright
+beautifulsoup4
+lxml
