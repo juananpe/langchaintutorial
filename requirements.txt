@@ -9,3 +9,5 @@ nest_asyncio
 playwright
 beautifulsoup4
 lxml
+python-telegram-bot
+requests
