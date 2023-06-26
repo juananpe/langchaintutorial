@@ -15,8 +15,8 @@ prompt = PromptTemplate(
 # question = "Hola, soy Ane. ¿Tú cómo te llamas?"
 # question = "¿Cuál es la capital de Francia?"
 # question = "¿Recuerdas cómo me llamo?"
-# question = "Dame la lista de campeones de La Liga desde 2015"
-# question = "Dame la lista de campeones de La Liga desde 2015, en formato JSON con las claves 'temporada' y 'equipo'"
+# question = "Dame la lista de campeones de la primera división de fútbol desde 2015"
+# question = "Dame la lista de campeones de la primera división de fútbol desde 2015, en formato JSON con las claves 'temporada' y 'equipo'"
 
 # llm = Anthropic(temperature=0)
 # llm = AI21(temperature=0)
@@ -27,7 +27,7 @@ llm_chain = LLMChain(
     llm=llm,
 )
 
-print(llm_chain.prompt)
+# print(llm_chain.prompt)
 # print(llm_chain.run(question))
 
 while True:

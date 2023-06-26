@@ -8,6 +8,7 @@ llm = OpenAI(
     )
 
 
+# Los LLM no son buenos en matemáticas...
 prompt = PromptTemplate(input_variables=['question'], template='{question}')
 llm_chain = LLMChain(prompt=prompt, llm=llm)
 print("Answer: " + llm_chain.run("What is 13 raised to the .3432 power?"))
