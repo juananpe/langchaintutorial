@@ -31,7 +31,10 @@ llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.1)
 
 # Create QA chain
 from langchain.chains import RetrievalQA
-qa = RetrievalQA.from_chain_type(llm=llm, retriever=docsearch.as_retriever(), chain_type="stuff")
+qa = RetrievalQA.from_chain_type(llm=llm, 
+                                 # search_type="similarity", search_kwargs={"k":2}
+                                 retriever=docsearch.as_retriever(), 
+                                 chain_type="stuff")
 
 print("Retrieving...")
 query = "Brevemente, ¿de qué trata el proyecto? ¿quién lo ha realizado? ¿cuál es su objetivo?"
