@@ -28,6 +28,8 @@ async def go(async_browser):
     # async_browser = 
     browser_toolkit = PlayWrightBrowserToolkit.from_browser(async_browser=async_browser)
     tools = browser_toolkit.get_tools()
+    
+    # print(tools)
 
     llm = ChatOpenAI(temperature=0) # Also works well with Anthropic models
     agent_chain = initialize_agent(tools, llm, agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION, verbose=True)
