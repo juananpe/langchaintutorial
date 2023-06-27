@@ -1,5 +1,5 @@
 '''
-pip install python-telegram langchain faiss-cpu tiktoken
+pip install python-telegram-bot langchain faiss-cpu tiktoken
 '''
 
 import os
