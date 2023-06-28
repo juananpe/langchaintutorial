@@ -24,5 +24,3 @@ qa_chain = RetrievalQA.from_chain_type(llm=llm,
 # https://www.youtube.com/watch?v=DXpk9K7DgMo&ab_channel=JamesBriggs
 # Running mpt-30b with a CPU
 # https://github.com/abacaj/mpt-30B-inference
-
-
