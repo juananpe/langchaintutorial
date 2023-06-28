@@ -11,3 +11,6 @@ beautifulsoup4
 lxml
 python-telegram-bot
 requests
+ctransformers
+sentence-transformers
+InstructorEmbedding
