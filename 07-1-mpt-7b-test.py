@@ -16,6 +16,7 @@ retriever = db.as_retriever(search_kwargs={"k": 3})
 qa_chain = RetrievalQA.from_chain_type(llm=llm, 
                                   chain_type="stuff", 
                                   retriever=retriever)
+<<<<<<< HEAD
 
 
 # Running LLMs locally
@@ -24,3 +25,5 @@ qa_chain = RetrievalQA.from_chain_type(llm=llm,
 # https://www.youtube.com/watch?v=DXpk9K7DgMo&ab_channel=JamesBriggs
 # Running mpt-30b with a CPU
 # https://github.com/abacaj/mpt-30B-inference
+=======
+>>>>>>> 5b078fd (add local LLM example)
