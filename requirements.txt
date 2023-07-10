@@ -17,3 +17,6 @@ InstructorEmbedding
 typer[all]
 rich
 pdfplumber
+unstructured
+huggingface_hub
+gradio_client

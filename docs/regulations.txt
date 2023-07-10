@@ -1,0 +1,120 @@
+FACULTY OF COMPUTER SCIENCE FINAL THESIS REGULATIONS
+
+ARTICLE 1: GENERAL ASPECTS AND NATURE
+1.1 The Final Project involves the completion by each student, individually, of a project under the supervision of one or more directors, in which the training content received, capacities, competencies and skills acquired during the teaching period of the Degree are integrated and developed.
+1.2 The Final Degree Project may be defended and evaluated once there is reliable proof that the student has not passed at most three elective subjects of the curriculum, that is, a maximum of 18 elective credits of the third and/or fourth year.
+1.3 The Final Degree Project is a work protected by the Intellectual Property Law. Consequently, the ownership of the intellectual property rights will correspond to the person who has carried it out, unless otherwise established in the assignment document of the Final Degree Project that each student has accepted, under the terms and conditions provided for in current legislation. The report of this work may be published digitally by the UPV/EHU through its ADDI service, unless otherwise stated in the registration document of the work.
+1.4 In the Degree in Computer Engineering, this work corresponds to the compulsory subject called Final Degree Project and represents 12 credits.
+
+ARTICLE 2: OBJECTIVES
+2.1 The Final Project must be oriented to the application of the general competences associated to the degree, to enable the search, management, organization and interpretation of relevant data.
+2.2 Specifically, the main objective is to consolidate the competences obtained in the degree and to develop skills for the practical application of these competences. To this end, the student will carry out a project consisting of the analysis of a problem related to academic training in their studies and specialty, the design and, if necessary, the implementation of an appropriate solution.
+2.3 During the realization of the work the following skills will be developed and verified:
+1. Achieve the objectives proposed in the work, solving autonomously the difficulties that arise in its development.
+2. Plan and manage the work to be done.
+3. Write a report that comprehensively reflects the work carried out with a structure
+with a structure suitable to an engineering work document and in a rigorous and formal style, making a
+rigorous and formal style, making an inclusive use of language.
+4. Expose and defend publicly the work done.
+
+
+ARTICLE 3: REGISTRATION AND CALLS
+3.1. Registration for the project will be carried out, in accordance with UPV/EHU regulations, within the general registration period established by the University, by paying the corresponding public prices in accordance with the credits assigned to the project. If necessary, the Faculty Board will set a deadline for the pre-registration of the Final Degree Project. In order to carry out this pre-registration it will be necessary to have enrolled in or passed all the subjects required to complete the study plan.
+3.2. Registration will entitle the student to two official examinations in each academic year in accordance with the academic calendar approved by the Governing Council. Students who have not been evaluated or who have not defended their work in the established exams for the course must re-enroll in the following academic year.
+3.3. Students must specify in their registration the language in which they wish to prepare and defend their Final Degree Project.
+3.4. The schedule for the defense of the Final Degree Project will be proposed by the Final Degree Project Committee and approved by the Faculty Board.
+It will consist of two time intervals for each call, one of them in September if the general regulations of the UPV/EHU allow it. These will be the reference deadlines for each period: November 20, February 20, July 20 and September 20.
+3.5. The evaluation report of the Final Degree Project must be closed in accordance with the provisions of the University's Evaluation Regulations, being the responsibility of the Secretary of the Tribunal its correct completion and delivery to the administrative services in accordance with the procedure established by the Center.
+
+ARTICLE 4: THE DIRECTOR
+4.1. The Final Degree Project will be directed by faculty members of the Faculty of Computer Science and may be directed by more than one person. Doctors registered in the Faculty may also direct, provided that there is a co-director who is a member of the teaching staff.
+4.2. The work of direction will consist of explaining to each student the characteristics of the work, guiding it in its development and ensuring compliance with the objectives set, as well as monitoring the work.
+4.3. If the student carries out part or all of the Final Degree Project within the framework of an internship agreement in institutions or organizations other than the UPV/EHU, the work may be directed by personnel from outside the university, in which case there must be a tutor who is a member of the teaching staff of the Faculty.
+4.4. If any extraordinary circumstance occurs that makes a person abandon the direction or tutoring of a project, the department to which he/she belongs must propose another person to replace him/her. The department will try to do this as soon as possible.
+
+ARTICLE 5: SUBJECTS AND SPECIALTY
+5.1. The Final Degree Project must be carried out within the specialty chosen in the undergraduate studies. Therefore, it will be framed within one of these three specialties:
+- Computer Engineering
+- Computer Science
+- Software Engineering
+5.2. The assignment of the work to the specialty will be made during the registration. At the end of the registration period, a committee will have to approve the assignment. This commission will be composed of the specialty coordinators and the members of the Final Degree Project Commission. If an assignment is not approved by the committee, an alternative proposal must be made.
+
+ARTICLE 6: ASSIGNMENT OF THE WORK AND CHOICE OF TOPIC
+6.1. Three types of work are distinguished: agreed, offered and carried out in external organizations. In the first type, students and teachers may contact each other directly, defining a project on a specific topic of their interest, with the teacher assuming the direction of the project. In the case of external work, including company work and Erasmus/Seneca programs, article 4.3 will apply. In all other cases, students may choose from among the work offered by the departments. For this purpose, the departments with teaching in the Faculty will make an annual offer of work by specialties, according to the credits assigned to each department in each specialty by the Center.
+6.2 Once the pre-registration period is over, the Final Degree Project Commission will publish the calendar and procedures, so that all types of projects are managed correctly. The following information must be known for each project for its offer, registration and approval:
+- Specialty.
+- Type.
+- Address.
+- Title of the work.
+- Description.
+- Language: indicate whether the report and defense will be in Basque, Spanish or English.
+- Necessary resources.
+- Recommendations (for example, knowledge of a specific software).
+- Intellectual property and publication rights.
+6.3. The student who has not passed the course during the academic year may request an extension of the same.
+
+ARTICLE 7: EVALUATION PANEL
+ 7.1. For each paper a panel of three members will be appointed:
+1 president: the person in charge of the area or a member appointed by the department.
+1 secretary: a professor with knowledge in the subject or area, who will be proposed by the director of the work or the person in charge of the specialty.
+1 member: the director of the work (or one of the directors). In the act of defense, he/she will participate in the evaluation in the same way as the other two members of the panel.
+The appointment of the panels will ensure that the defenses will be in the two official languages.
+7.2. The evaluation panels shall be organized by specialties, and the presidency and the secretariat shall be appointed according to the following criteria:
+- The Faculty Board will ratify the appointment of the chair for each defense period and specialty, at the proposal of the department. A total of 9 presiding members (4 from LSI, 3 from ATC and 2 from CCIA) will be appointed in order to form three tribunals per specialty, according to the needs. The presidency of the tribunal will remain unchanged for each defense period, specialty and language, taking into account, in any case, the workload of the tribunal.
+- The secretariat will be appointed taking into account the specialty or subspecialty of each paper, and taking into account, in the same way, the language. For this purpose, interdepartmental lists organized by specialties and subspecialties shall be compiled to form possible tribunals. The secretary may be appointed by the director of the Final Degree Project with the agreement of the person chosen, or may be appointed from among the members of the aforementioned lists. If the work has been directed by two directors, in no case may only one of them be the secretary of the examining board.
+7.3. If necessary, the Final Degree Project Committee may appoint an alternate as a matter of urgency, due to illness, leave of absence or other similar cause of any member, or to ensure understanding in the chosen language.
+
+ARTICLE 8: PRESENTATION AND DEFENSE OF THE WORK
+8.1. The student, once enrolled, must submit the report of the work on the ADDI platform. Along with the report, it is also recommended that the student summarizes the work done in a poster so that it can be exhibited. Once the date of the public defense of the project has been determined, this date will be indicated on the poster.
+The format of the report must follow the Faculty standard and it is recommended that it be approximately 60 pages long (attachments apart). An electronic copy should be sent from the secretary's office to each of the members of the evaluation panel in addition to the director's report that will have been requested. If additional material (programs, etc.) is required, it will be added to the report or made available on the Internet. If other material is necessary, it shall be delivered to the secretary's office.
+ 8.2. The defense of the Final Degree Project will be public and carried out by the student at the place in the Faculty and on the date and time at which he/she has been summoned. These details will have been published at least three days in advance.
+8.3. The defense may be made in Basque, Spanish or English, as provided when registering the work.
+8.4. Each student will have a maximum time of half an hour for the defense, in which he/she must explain the objectives, methodology, content and conclusions of his/her work. Afterwards, he/she will answer questions, clarifications, comments and suggestions that may be raised by the members of the tribunal.
+
+
+ARTICLE 9: EVALUATION AND GRADING
+9.1. Taking into account the report prepared by the director, the panel will establish the grade that corresponds to the student according to the evaluation criteria published in the Final Degree Project teaching guide and in accordance with the provisions of the verification report of the degree.
+9.2. In case of a failing grade, the examining board will send a report to the student with the appropriate recommendations for the improvement of the work and its subsequent evaluation. A copy of the report will also be sent to the director.
+9.3. The grade will be awarded according to the following numerical scale from 0 to 10, with one decimal place, to which the corresponding qualitative grade will be added:
+Not Presented (NP).
+0 - 4.9: Failed (SS).
+5.0 - 6.9: Passed (AP). 7.0 - 8.9: Notable (NT).
+9.0 - 10: Outstanding (SB).
+The mention of "Matricula de Honor" may be awarded to the papers proposed by the examining board and which have had a grade equal to or higher than 9.0. Since their number cannot exceed five percent of the students enrolled in that subject in the corresponding academic year, the assignment will be made by classifying the papers by grade and discriminating those of the same grade according to the average grade of the degree.
+9.4. The review or claim of the final grades of the Final Degree Project will be carried out in accordance with the provisions of the regulations on evaluation of the University, although in this case, because it is a tribunal, the review of the evaluation in the first instance will be carried out by the same tribunal and in the following instance will be resolved by the Complaints Committee of the center; whose resolution may be appealed before the Rector/Rector of the University in appeal.
+
+
+ARTICLE 10: END-OF-DEGREE PROJECT COMMITTEE
+ 10.1. There shall be an End-of-Degree Project Committee approved by the Board of the Center and composed of the following members:
+- The Vice-Dean or Vice-Dean responsible for Final Degree Projects of the Center.
+- Three professors (one proposed by each department assigned to the center).
+- One undergraduate student, preferably with the first two years of studies completed, as proposed by the
+courses, at the proposal of the Student Council.
+- The person responsible for the management of Final Degree Projects at the Center.
+In order to facilitate and coordinate the different processes, the Final Project Committee will develop the following guidelines, which must be approved by the Faculty Board:
+- Formats and length of the reports.
+- Format of the examining board.
+- Document on the competencies and skills to be developed during the development of the work, both for the
+development of the work, both for students and faculty.
+It will include the general guidelines for the evaluation of Final Degree Projects.
+- Annual management processes of the Final Degree Projects.
+The last point includes the preparation of a calendar that includes in each call: defense period and, for each period, deadline for the deposit of reports and deadline for the defense.
+
+ARTICLE 11: UPDATING OF THESE REGULATIONS
+11.1. At the initiative of the Final Degree Project Committee or members of the Board of the Center, proposals for modification of these regulations may be submitted to the Board of the Center for approval.
+11.2. In any case, two years after the approval of these regulations, the End-of-Degree Project Committee shall submit a report to the Board of the School Board assessing their application and proposing, if appropriate, the modifications it considers necessary.
+11.3 Any modification of the regulations shall not be detrimental to the Final Degree Projects previously evaluated during the academic year in which the regulations are modified.
+ADDITIONAL PROVISION. PROCESSES AND DOCUMENTS
+The most important processes and documents included in the regulations are listed below:
+- Pre-registration made by the student, having passed or registered the rest of the subjects of the degree (UPV/EHU procedure).
+- Public offer of the departments by specialties (web).
+- Registration of the work with the approval of the director (web)
+- Approval of the registered work by the corresponding committee.
+- Registration by the student, when only the work remains to be done.
+(UPV/EHU procedure)
+- Delivery of the report in digital form.
+- Defense, in front of the examining board and the public
+ - Report of the examining board and minutes
+
+
+
